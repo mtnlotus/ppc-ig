@@ -1,0 +1,58 @@
+[
+  {
+    "id" : "ppc-bothersome-health-concern-concepts",
+    "type" : "CodeSystem",
+    "url" : "http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts",
+    "version" : "0.1.0",
+    "name" : "PPCBothersomeHealthConcernConcepts"
+  },
+  {
+    "id" : "ppc-care-tradeoff-concepts",
+    "type" : "CodeSystem",
+    "url" : "http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts",
+    "version" : "0.1.0",
+    "name" : "PPCCareTradeOffConcepts"
+  },
+  {
+    "id" : "ppc-what-matters-concepts",
+    "type" : "CodeSystem",
+    "url" : "http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts",
+    "version" : "0.1.0",
+    "name" : "PPCWhatMattersConcepts"
+  },
+  {
+    "id" : "mtnlotus.fhir.ppc",
+    "type" : "ImplementationGuide",
+    "url" : "http://mtnlotus.com/fhir/ppc/ImplementationGuide/mtnlotus.fhir.ppc",
+    "version" : "0.1.0",
+    "name" : "PPC"
+  },
+  {
+    "id" : "ppc-bothersome-health-concern",
+    "type" : "StructureDefinition",
+    "url" : "http://mtnlotus.com/fhir/ppc/StructureDefinition/ppc-bothersome-health-concern",
+    "version" : "0.1.0",
+    "name" : "BothersomeHealthConcern"
+  },
+  {
+    "id" : "ppc-bothersome-health-concerns-vs",
+    "type" : "ValueSet",
+    "url" : "http://mtnlotus.com/fhir/ppc/ValueSet/ppc-bothersome-health-concerns-vs",
+    "version" : "0.1.0",
+    "name" : "PPCBothersomeHealthConcerns"
+  },
+  {
+    "id" : "ppc-care-tradeoff-vs",
+    "type" : "ValueSet",
+    "url" : "http://mtnlotus.com/fhir/ppc/ValueSet/ppc-care-tradeoff-vs",
+    "version" : "0.1.0",
+    "name" : "PPCCareTradeOff"
+  },
+  {
+    "id" : "ppc-what-matters-vs",
+    "type" : "ValueSet",
+    "url" : "http://mtnlotus.com/fhir/ppc/ValueSet/ppc-what-matters-vs",
+    "version" : "0.1.0",
+    "name" : "PPCWhatMatters"
+  }
+]

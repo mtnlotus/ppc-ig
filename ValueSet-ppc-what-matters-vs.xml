@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValueSet xmlns="http://hl7.org/fhir">
+  <id value="ppc-what-matters-vs"/>
+  <text>
+    <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml"><p class="res-header-id"><b>Generated Narrative: ValueSet ppc-what-matters-vs</b></p><a name="ppc-what-matters-vs"> </a><a name="hcppc-what-matters-vs"> </a><a name="ppc-what-matters-vs-en-US"> </a><ul><li>Include all codes defined in <a href="CodeSystem-ppc-what-matters-concepts.html"><code>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts</code></a></li></ul></div>
+  </text>
+  <url value="http://mtnlotus.com/fhir/ppc/ValueSet/ppc-what-matters-vs"/>
+  <version value="0.1.0"/>
+  <name value="PPCWhatMatters"/>
+  <title value="PPC What Matters ValueSet"/>
+  <status value="draft"/>
+  <experimental value="false"/>
+  <date value="2025-01-10T00:10:52+00:00"/>
+  <publisher value="Mountain Lotus WellBeing LLC"/>
+  <contact>
+    <name value="Mountain Lotus WellBeing LLC"/>
+    <telecom>
+      <system value="url"/>
+      <value value="http://mtnlotus.com"/>
+    </telecom>
+  </contact>
+  <description value="Vlue set containing types of What Matters."/>
+  <jurisdiction>
+    <coding>
+      <system value="urn:iso:std:iso:3166"/>
+      <code value="US"/>
+    </coding>
+  </jurisdiction>
+  <compose>
+    <include>
+      <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts"/>
+    </include>
+  </compose>
+</ValueSet>

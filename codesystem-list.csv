@@ -1,0 +1,4 @@
+URL,Version,Status,OIDs,Name,Title,Description,Used
+http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts,0.1.0,active,,PPCBothersomeHealthConcernConcepts,Bothersome Health Concern Concepts,"Code system to identify bothersome symptoms or health concerns..",
+http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts,0.1.0,active,,PPCCareTradeOffConcepts,Care Trade-off Concepts,"Code system to identify care trade-off concepts.",
+http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts,0.1.0,active,,PPCWhatMattersConcepts,PPC What Matters Concepts,"Code system to identify What Matters concepts from Patient Priories Care (PPC)",

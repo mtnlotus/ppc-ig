@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValueSet xmlns="http://hl7.org/fhir">
+  <id value="ppc-bothersome-health-concerns-vs"/>
+  <text>
+    <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml"><p class="res-header-id"><b>Generated Narrative: ValueSet ppc-bothersome-health-concerns-vs</b></p><a name="ppc-bothersome-health-concerns-vs"> </a><a name="hcppc-bothersome-health-concerns-vs"> </a><a name="ppc-bothersome-health-concerns-vs-en-US"> </a><ul><li>Include all codes defined in <a href="CodeSystem-ppc-bothersome-health-concern-concepts.html"><code>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts</code></a></li></ul></div>
+  </text>
+  <url value="http://mtnlotus.com/fhir/ppc/ValueSet/ppc-bothersome-health-concerns-vs"/>
+  <version value="0.1.0"/>
+  <name value="PPCBothersomeHealthConcerns"/>
+  <title value="Bothersome Health Concerns"/>
+  <status value="draft"/>
+  <experimental value="false"/>
+  <date value="2025-01-10T00:10:52+00:00"/>
+  <publisher value="Mountain Lotus WellBeing LLC"/>
+  <contact>
+    <name value="Mountain Lotus WellBeing LLC"/>
+    <telecom>
+      <system value="url"/>
+      <value value="http://mtnlotus.com"/>
+    </telecom>
+  </contact>
+  <description value="Value set containing types of bothersome symptoms or health concerns."/>
+  <jurisdiction>
+    <coding>
+      <system value="urn:iso:std:iso:3166"/>
+      <code value="US"/>
+    </coding>
+  </jurisdiction>
+  <compose>
+    <include>
+      <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts"/>
+    </include>
+  </compose>
+</ValueSet>

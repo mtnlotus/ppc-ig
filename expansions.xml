@@ -1,0 +1,1142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Bundle xmlns="http://hl7.org/fhir">
+  <id value="e560a189-219e-448a-a3f8-aa182802a23f"/>
+  <meta>
+    <lastUpdated value="2025-01-10T00:10:52.286+00:00"/>
+  </meta>
+  <type value="collection"/>
+  <entry>
+    <fullUrl value="http://mtnlotus.com/fhir/ppc/ValueSet/ppc-bothersome-health-concerns-vs"/>
+    <resource>
+      <ValueSet>
+        <text>
+          <status value="generated"/>
+          <div xmlns="http://www.w3.org/1999/xhtml">
+            <p class="res-header-id">
+              <b>Generated Narrative: ValueSet </b>
+            </p>
+            <p style="border: black 1px dotted; background-color: #EEEEEE; padding: 8px; margin-bottom: 8px">Expansion based on 
+              <a href="CodeSystem-ppc-bothersome-health-concern-concepts.html">codesystem Bothersome Health Concern Concepts v0.1.0 (CodeSystem)</a>
+            </p>
+            <p>This value set contains 23 concepts</p>
+            <table class="codes">
+              <tr>
+                <td style="white-space:nowrap">
+                  <b>Code</b>
+                </td>
+                <td>
+                  <b>System</b>
+                </td>
+                <td>
+                  <b>Display</b>
+                </td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts-other"> </a>  
+                  <a href="CodeSystem-ppc-bothersome-health-concern-concepts.html#ppc-bothersome-health-concern-concepts-other">other</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts</td>
+                <td>Other</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts-muscle-weakness"> </a>  
+                  <a href="CodeSystem-ppc-bothersome-health-concern-concepts.html#ppc-bothersome-health-concern-concepts-muscle-weakness">muscle-weakness</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts</td>
+                <td>Feeling muscle weakness</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts-pain"> </a>  
+                  <a href="CodeSystem-ppc-bothersome-health-concern-concepts.html#ppc-bothersome-health-concern-concepts-pain">pain</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts</td>
+                <td>Feeling pain</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts-unsteady"> </a>  
+                  <a href="CodeSystem-ppc-bothersome-health-concern-concepts.html#ppc-bothersome-health-concern-concepts-unsteady">unsteady</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts</td>
+                <td>Feeling unsteady; trouble balancing/walking</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts-worried-nervous-anxious"> </a>  
+                  <a href="CodeSystem-ppc-bothersome-health-concern-concepts.html#ppc-bothersome-health-concern-concepts-worried-nervous-anxious">worried-nervous-anxious</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts</td>
+                <td>Feeling worried, nervous, anxious</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts-sad"> </a>  
+                  <a href="CodeSystem-ppc-bothersome-health-concern-concepts.html#ppc-bothersome-health-concern-concepts-sad">sad</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts</td>
+                <td>Feeling sad</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts-irritable"> </a>  
+                  <a href="CodeSystem-ppc-bothersome-health-concern-concepts.html#ppc-bothersome-health-concern-concepts-irritable">irritable</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts</td>
+                <td>Feeling irritable</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts-adverse-effects"> </a>  
+                  <a href="CodeSystem-ppc-bothersome-health-concern-concepts.html#ppc-bothersome-health-concern-concepts-adverse-effects">adverse-effects</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts</td>
+                <td>Feeling adverse effects from treatment(s)</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts-dizzy"> </a>  
+                  <a href="CodeSystem-ppc-bothersome-health-concern-concepts.html#ppc-bothersome-health-concern-concepts-dizzy">dizzy</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts</td>
+                <td>Feeling dizzy</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts-tired-lacking-energy"> </a>  
+                  <a href="CodeSystem-ppc-bothersome-health-concern-concepts.html#ppc-bothersome-health-concern-concepts-tired-lacking-energy">tired-lacking-energy</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts</td>
+                <td>Feeling tired/lacking energy</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts-touble-sleeping"> </a>  
+                  <a href="CodeSystem-ppc-bothersome-health-concern-concepts.html#ppc-bothersome-health-concern-concepts-touble-sleeping">touble-sleeping</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts</td>
+                <td>Having trouble sleeping</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts-poor-eyesight"> </a>  
+                  <a href="CodeSystem-ppc-bothersome-health-concern-concepts.html#ppc-bothersome-health-concern-concepts-poor-eyesight">poor-eyesight</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts</td>
+                <td>Having poor eyesight</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts-poor-hearing"> </a>  
+                  <a href="CodeSystem-ppc-bothersome-health-concern-concepts.html#ppc-bothersome-health-concern-concepts-poor-hearing">poor-hearing</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts</td>
+                <td>Having poor hearing</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts-leg-swelling"> </a>  
+                  <a href="CodeSystem-ppc-bothersome-health-concern-concepts.html#ppc-bothersome-health-concern-concepts-leg-swelling">leg-swelling</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts</td>
+                <td>Having leg swelling</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts-trouble-breathing"> </a>  
+                  <a href="CodeSystem-ppc-bothersome-health-concern-concepts.html#ppc-bothersome-health-concern-concepts-trouble-breathing">trouble-breathing</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts</td>
+                <td>Having trouble breathing (short of breath)</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts-healthcare-tasks-take-too-much-time"> </a>  
+                  <a href="CodeSystem-ppc-bothersome-health-concern-concepts.html#ppc-bothersome-health-concern-concepts-healthcare-tasks-take-too-much-time">healthcare-tasks-take-too-much-time</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts</td>
+                <td>Having health care tasks take too much time</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts-urinary-incontinence"> </a>  
+                  <a href="CodeSystem-ppc-bothersome-health-concern-concepts.html#ppc-bothersome-health-concern-concepts-urinary-incontinence">urinary-incontinence</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts</td>
+                <td>Having urinary incontinence</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts-bathroom-often"> </a>  
+                  <a href="CodeSystem-ppc-bothersome-health-concern-concepts.html#ppc-bothersome-health-concern-concepts-bathroom-often">bathroom-often</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts</td>
+                <td>Having to go to the bathroom often</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts-diarrhea"> </a>  
+                  <a href="CodeSystem-ppc-bothersome-health-concern-concepts.html#ppc-bothersome-health-concern-concepts-diarrhea">diarrhea</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts</td>
+                <td>Having diarrhea</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts-constipation"> </a>  
+                  <a href="CodeSystem-ppc-bothersome-health-concern-concepts.html#ppc-bothersome-health-concern-concepts-constipation">constipation</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts</td>
+                <td>Having constipation</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts-upset-stomach-nausea"> </a>  
+                  <a href="CodeSystem-ppc-bothersome-health-concern-concepts.html#ppc-bothersome-health-concern-concepts-upset-stomach-nausea">upset-stomach-nausea</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts</td>
+                <td>Having upset stomach, nausea</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts-memory-problems"> </a>  
+                  <a href="CodeSystem-ppc-bothersome-health-concern-concepts.html#ppc-bothersome-health-concern-concepts-memory-problems">memory-problems</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts</td>
+                <td>Having confusing or memory problems</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts-problem-list-item"> </a>  
+                  <a href="CodeSystem-ppc-bothersome-health-concern-concepts.html#ppc-bothersome-health-concern-concepts-problem-list-item">problem-list-item</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts</td>
+                <td>Problem List Item</td>
+              </tr>
+            </table>
+          </div>
+        </text>
+        <url value="http://mtnlotus.com/fhir/ppc/ValueSet/ppc-bothersome-health-concerns-vs"/>
+        <version value="0.1.0"/>
+        <name value="PPCBothersomeHealthConcerns"/>
+        <title value="Bothersome Health Concerns"/>
+        <status value="draft"/>
+        <experimental value="false"/>
+        <date value="2025-01-10T00:10:52+00:00"/>
+        <jurisdiction>
+          <coding>
+            <system value="urn:iso:std:iso:3166"/>
+            <code value="US"/>
+          </coding>
+        </jurisdiction>
+        <expansion>
+          <identifier value="urn:uuid:9121b6f9-8c2d-468b-8593-60007e2cf8b7"/>
+          <timestamp value="2025-01-10T00:11:47+00:00"/>
+          <total value="23"/>
+          <offset value="0"/>
+          <parameter>
+            <name value="count"/>
+            <valueInteger value="1000"/>
+          </parameter>
+          <parameter>
+            <name value="offset"/>
+            <valueInteger value="0"/>
+          </parameter>
+          <parameter>
+            <name value="excludeNested"/>
+            <valueBoolean value="false"/>
+          </parameter>
+          <parameter>
+            <name value="used-codesystem"/>
+            <valueUri value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts|0.1.0"/>
+          </parameter>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts"/>
+            <code value="other"/>
+            <display value="Other"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts"/>
+            <code value="muscle-weakness"/>
+            <display value="Feeling muscle weakness"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts"/>
+            <code value="pain"/>
+            <display value="Feeling pain"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts"/>
+            <code value="unsteady"/>
+            <display value="Feeling unsteady; trouble balancing/walking"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts"/>
+            <code value="worried-nervous-anxious"/>
+            <display value="Feeling worried, nervous, anxious"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts"/>
+            <code value="sad"/>
+            <display value="Feeling sad"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts"/>
+            <code value="irritable"/>
+            <display value="Feeling irritable"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts"/>
+            <code value="adverse-effects"/>
+            <display value="Feeling adverse effects from treatment(s)"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts"/>
+            <code value="dizzy"/>
+            <display value="Feeling dizzy"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts"/>
+            <code value="tired-lacking-energy"/>
+            <display value="Feeling tired/lacking energy"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts"/>
+            <code value="touble-sleeping"/>
+            <display value="Having trouble sleeping"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts"/>
+            <code value="poor-eyesight"/>
+            <display value="Having poor eyesight"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts"/>
+            <code value="poor-hearing"/>
+            <display value="Having poor hearing"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts"/>
+            <code value="leg-swelling"/>
+            <display value="Having leg swelling"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts"/>
+            <code value="trouble-breathing"/>
+            <display value="Having trouble breathing (short of breath)"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts"/>
+            <code value="healthcare-tasks-take-too-much-time"/>
+            <display value="Having health care tasks take too much time"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts"/>
+            <code value="urinary-incontinence"/>
+            <display value="Having urinary incontinence"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts"/>
+            <code value="bathroom-often"/>
+            <display value="Having to go to the bathroom often"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts"/>
+            <code value="diarrhea"/>
+            <display value="Having diarrhea"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts"/>
+            <code value="constipation"/>
+            <display value="Having constipation"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts"/>
+            <code value="upset-stomach-nausea"/>
+            <display value="Having upset stomach, nausea"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts"/>
+            <code value="memory-problems"/>
+            <display value="Having confusing or memory problems"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts"/>
+            <code value="problem-list-item"/>
+            <display value="Problem List Item"/>
+          </contains>
+        </expansion>
+      </ValueSet>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="http://mtnlotus.com/fhir/ppc/ValueSet/ppc-care-tradeoff-vs"/>
+    <resource>
+      <ValueSet>
+        <text>
+          <status value="generated"/>
+          <div xmlns="http://www.w3.org/1999/xhtml">
+            <p class="res-header-id">
+              <b>Generated Narrative: ValueSet </b>
+            </p>
+            <p style="border: black 1px dotted; background-color: #EEEEEE; padding: 8px; margin-bottom: 8px">Expansion based on 
+              <a href="CodeSystem-ppc-care-tradeoff-concepts.html">codesystem Care Trade-off Concepts v0.1.0 (CodeSystem)</a>
+            </p>
+            <p>This value set contains 29 concepts</p>
+            <table class="codes">
+              <tr>
+                <td>
+                  <b>Level</b>
+                </td>
+                <td style="white-space:nowrap">
+                  <b>Code</b>
+                </td>
+                <td>
+                  <b>System</b>
+                </td>
+                <td>
+                  <b>Display</b>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts-medications"> </a>1
+                </td>
+                <td style="white-space:nowrap">  
+                  <a href="CodeSystem-ppc-care-tradeoff-concepts.html#ppc-care-tradeoff-concepts-medications">medications</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts</td>
+                <td>Medications</td>
+              </tr>
+              <tr>
+                <td>
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts-self-care-tasks"> </a>1
+                </td>
+                <td style="white-space:nowrap">  
+                  <a href="CodeSystem-ppc-care-tradeoff-concepts.html#ppc-care-tradeoff-concepts-self-care-tasks">self-care-tasks</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts</td>
+                <td>Self-care tasks</td>
+              </tr>
+              <tr>
+                <td>
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts-diet"> </a>2
+                </td>
+                <td style="white-space:nowrap">    
+                  <a href="CodeSystem-ppc-care-tradeoff-concepts.html#ppc-care-tradeoff-concepts-diet">diet</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts</td>
+                <td>Following a special diet</td>
+              </tr>
+              <tr>
+                <td>
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts-exercise"> </a>2
+                </td>
+                <td style="white-space:nowrap">    
+                  <a href="CodeSystem-ppc-care-tradeoff-concepts.html#ppc-care-tradeoff-concepts-exercise">exercise</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts</td>
+                <td>Exercising</td>
+              </tr>
+              <tr>
+                <td>
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts-checking-vitals"> </a>2
+                </td>
+                <td style="white-space:nowrap">    
+                  <a href="CodeSystem-ppc-care-tradeoff-concepts.html#ppc-care-tradeoff-concepts-checking-vitals">checking-vitals</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts</td>
+                <td>Checking health signs (e.g., weight, blood pressure)</td>
+              </tr>
+              <tr>
+                <td>
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts-checking-blood-sugar"> </a>2
+                </td>
+                <td style="white-space:nowrap">    
+                  <a href="CodeSystem-ppc-care-tradeoff-concepts.html#ppc-care-tradeoff-concepts-checking-blood-sugar">checking-blood-sugar</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts</td>
+                <td>Checking blood sugar</td>
+              </tr>
+              <tr>
+                <td>
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts-wearing-cpap-mask"> </a>2
+                </td>
+                <td style="white-space:nowrap">    
+                  <a href="CodeSystem-ppc-care-tradeoff-concepts.html#ppc-care-tradeoff-concepts-wearing-cpap-mask">wearing-cpap-mask</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts</td>
+                <td>Wearing CPAP mask</td>
+              </tr>
+              <tr>
+                <td>
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts-wearing-oxygen"> </a>2
+                </td>
+                <td style="white-space:nowrap">    
+                  <a href="CodeSystem-ppc-care-tradeoff-concepts.html#ppc-care-tradeoff-concepts-wearing-oxygen">wearing-oxygen</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts</td>
+                <td>Wearing oxygen</td>
+              </tr>
+              <tr>
+                <td>
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts-using-cane-or-walker"> </a>2
+                </td>
+                <td style="white-space:nowrap">    
+                  <a href="CodeSystem-ppc-care-tradeoff-concepts.html#ppc-care-tradeoff-concepts-using-cane-or-walker">using-cane-or-walker</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts</td>
+                <td>Using a cane or walker</td>
+              </tr>
+              <tr>
+                <td>
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts-treatments-procedures"> </a>1
+                </td>
+                <td style="white-space:nowrap">  
+                  <a href="CodeSystem-ppc-care-tradeoff-concepts.html#ppc-care-tradeoff-concepts-treatments-procedures">treatments-procedures</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts</td>
+                <td>Tests, treatments, and procedures</td>
+              </tr>
+              <tr>
+                <td>
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts-dialysis"> </a>2
+                </td>
+                <td style="white-space:nowrap">    
+                  <a href="CodeSystem-ppc-care-tradeoff-concepts.html#ppc-care-tradeoff-concepts-dialysis">dialysis</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts</td>
+                <td>Doing Dialysis</td>
+              </tr>
+              <tr>
+                <td>
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts-chemotherapy"> </a>2
+                </td>
+                <td style="white-space:nowrap">    
+                  <a href="CodeSystem-ppc-care-tradeoff-concepts.html#ppc-care-tradeoff-concepts-chemotherapy">chemotherapy</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts</td>
+                <td>Doing Chemotherapy</td>
+              </tr>
+              <tr>
+                <td>
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts-radiation"> </a>2
+                </td>
+                <td style="white-space:nowrap">    
+                  <a href="CodeSystem-ppc-care-tradeoff-concepts.html#ppc-care-tradeoff-concepts-radiation">radiation</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts</td>
+                <td>Going through Radiation</td>
+              </tr>
+              <tr>
+                <td>
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts-blood-tests"> </a>2
+                </td>
+                <td style="white-space:nowrap">    
+                  <a href="CodeSystem-ppc-care-tradeoff-concepts.html#ppc-care-tradeoff-concepts-blood-tests">blood-tests</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts</td>
+                <td>Having Blood Tests done</td>
+              </tr>
+              <tr>
+                <td>
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts-x-rays"> </a>2
+                </td>
+                <td style="white-space:nowrap">    
+                  <a href="CodeSystem-ppc-care-tradeoff-concepts.html#ppc-care-tradeoff-concepts-x-rays">x-rays</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts</td>
+                <td>Having X-Rays done</td>
+              </tr>
+              <tr>
+                <td>
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts-other-diagnostic-tests"> </a>2
+                </td>
+                <td style="white-space:nowrap">    
+                  <a href="CodeSystem-ppc-care-tradeoff-concepts.html#ppc-care-tradeoff-concepts-other-diagnostic-tests">other-diagnostic-tests</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts</td>
+                <td>Going through other Diagnostic Tests (e.g. mammography)</td>
+              </tr>
+              <tr>
+                <td>
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts-surgeries"> </a>2
+                </td>
+                <td style="white-space:nowrap">    
+                  <a href="CodeSystem-ppc-care-tradeoff-concepts.html#ppc-care-tradeoff-concepts-surgeries">surgeries</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts</td>
+                <td>Having Surgeries</td>
+              </tr>
+              <tr>
+                <td>
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts-other-procedures"> </a>2
+                </td>
+                <td style="white-space:nowrap">    
+                  <a href="CodeSystem-ppc-care-tradeoff-concepts.html#ppc-care-tradeoff-concepts-other-procedures">other-procedures</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts</td>
+                <td>Having other procedures done (e.g. colonoscopy)</td>
+              </tr>
+              <tr>
+                <td>
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts-health-care-visits"> </a>1
+                </td>
+                <td style="white-space:nowrap">  
+                  <a href="CodeSystem-ppc-care-tradeoff-concepts.html#ppc-care-tradeoff-concepts-health-care-visits">health-care-visits</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts</td>
+                <td>Health Care visits</td>
+              </tr>
+              <tr>
+                <td>
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts-pcp"> </a>2
+                </td>
+                <td style="white-space:nowrap">    
+                  <a href="CodeSystem-ppc-care-tradeoff-concepts.html#ppc-care-tradeoff-concepts-pcp">pcp</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts</td>
+                <td>Visiting PCP primary clinician</td>
+              </tr>
+              <tr>
+                <td>
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts-specialists"> </a>2
+                </td>
+                <td style="white-space:nowrap">    
+                  <a href="CodeSystem-ppc-care-tradeoff-concepts.html#ppc-care-tradeoff-concepts-specialists">specialists</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts</td>
+                <td>Visiting specialists (e.g., cardiologist, pulmonologist, urologist)</td>
+              </tr>
+              <tr>
+                <td>
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts-counselor"> </a>2
+                </td>
+                <td style="white-space:nowrap">    
+                  <a href="CodeSystem-ppc-care-tradeoff-concepts.html#ppc-care-tradeoff-concepts-counselor">counselor</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts</td>
+                <td>Visiting counselor (e.g., psychologist, social worker, therapist)</td>
+              </tr>
+              <tr>
+                <td>
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts-rehabilitation"> </a>2
+                </td>
+                <td style="white-space:nowrap">    
+                  <a href="CodeSystem-ppc-care-tradeoff-concepts.html#ppc-care-tradeoff-concepts-rehabilitation">rehabilitation</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts</td>
+                <td>Doing rehabilitation (e.g., physical therapy, cardio rehabilitation)</td>
+              </tr>
+              <tr>
+                <td>
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts-community-services"> </a>1
+                </td>
+                <td style="white-space:nowrap">  
+                  <a href="CodeSystem-ppc-care-tradeoff-concepts.html#ppc-care-tradeoff-concepts-community-services">community-services</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts</td>
+                <td>Community programs, services and supports</td>
+              </tr>
+              <tr>
+                <td>
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts-in-home-help"> </a>2
+                </td>
+                <td style="white-space:nowrap">    
+                  <a href="CodeSystem-ppc-care-tradeoff-concepts.html#ppc-care-tradeoff-concepts-in-home-help">in-home-help</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts</td>
+                <td>In-home help</td>
+              </tr>
+              <tr>
+                <td>
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts-transportation"> </a>2
+                </td>
+                <td style="white-space:nowrap">    
+                  <a href="CodeSystem-ppc-care-tradeoff-concepts.html#ppc-care-tradeoff-concepts-transportation">transportation</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts</td>
+                <td>Transportation</td>
+              </tr>
+              <tr>
+                <td>
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts-meal-delivery"> </a>2
+                </td>
+                <td style="white-space:nowrap">    
+                  <a href="CodeSystem-ppc-care-tradeoff-concepts.html#ppc-care-tradeoff-concepts-meal-delivery">meal-delivery</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts</td>
+                <td>Meal delivery</td>
+              </tr>
+              <tr>
+                <td>
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts-community-based-program"> </a>2
+                </td>
+                <td style="white-space:nowrap">    
+                  <a href="CodeSystem-ppc-care-tradeoff-concepts.html#ppc-care-tradeoff-concepts-community-based-program">community-based-program</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts</td>
+                <td>Community-based program</td>
+              </tr>
+              <tr>
+                <td>
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts-other"> </a>1
+                </td>
+                <td style="white-space:nowrap">  
+                  <a href="CodeSystem-ppc-care-tradeoff-concepts.html#ppc-care-tradeoff-concepts-other">other</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts</td>
+                <td>Other</td>
+              </tr>
+            </table>
+          </div>
+        </text>
+        <url value="http://mtnlotus.com/fhir/ppc/ValueSet/ppc-care-tradeoff-vs"/>
+        <version value="0.1.0"/>
+        <name value="PPCCareTradeOff"/>
+        <title value="Care Trade-off"/>
+        <status value="draft"/>
+        <experimental value="false"/>
+        <date value="2025-01-10T00:10:52+00:00"/>
+        <jurisdiction>
+          <coding>
+            <system value="urn:iso:std:iso:3166"/>
+            <code value="US"/>
+          </coding>
+        </jurisdiction>
+        <expansion>
+          <identifier value="urn:uuid:dd63ab38-4931-47b4-815a-776ecf448f38"/>
+          <timestamp value="2025-01-10T00:11:47+00:00"/>
+          <total value="29"/>
+          <offset value="0"/>
+          <parameter>
+            <name value="count"/>
+            <valueInteger value="1000"/>
+          </parameter>
+          <parameter>
+            <name value="offset"/>
+            <valueInteger value="0"/>
+          </parameter>
+          <parameter>
+            <name value="excludeNested"/>
+            <valueBoolean value="false"/>
+          </parameter>
+          <parameter>
+            <name value="used-codesystem"/>
+            <valueUri value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts|0.1.0"/>
+          </parameter>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts"/>
+            <code value="medications"/>
+            <display value="Medications"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts"/>
+            <code value="self-care-tasks"/>
+            <display value="Self-care tasks"/>
+            <contains>
+              <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts"/>
+              <code value="diet"/>
+              <display value="Following a special diet"/>
+            </contains>
+            <contains>
+              <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts"/>
+              <code value="exercise"/>
+              <display value="Exercising"/>
+            </contains>
+            <contains>
+              <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts"/>
+              <code value="checking-vitals"/>
+              <display value="Checking health signs (e.g., weight, blood pressure)"/>
+            </contains>
+            <contains>
+              <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts"/>
+              <code value="checking-blood-sugar"/>
+              <display value="Checking blood sugar"/>
+            </contains>
+            <contains>
+              <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts"/>
+              <code value="wearing-cpap-mask"/>
+              <display value="Wearing CPAP mask"/>
+            </contains>
+            <contains>
+              <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts"/>
+              <code value="wearing-oxygen"/>
+              <display value="Wearing oxygen"/>
+            </contains>
+            <contains>
+              <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts"/>
+              <code value="using-cane-or-walker"/>
+              <display value="Using a cane or walker"/>
+            </contains>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts"/>
+            <code value="treatments-procedures"/>
+            <display value="Tests, treatments, and procedures"/>
+            <contains>
+              <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts"/>
+              <code value="dialysis"/>
+              <display value="Doing Dialysis"/>
+            </contains>
+            <contains>
+              <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts"/>
+              <code value="chemotherapy"/>
+              <display value="Doing Chemotherapy"/>
+            </contains>
+            <contains>
+              <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts"/>
+              <code value="radiation"/>
+              <display value="Going through Radiation"/>
+            </contains>
+            <contains>
+              <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts"/>
+              <code value="blood-tests"/>
+              <display value="Having Blood Tests done"/>
+            </contains>
+            <contains>
+              <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts"/>
+              <code value="x-rays"/>
+              <display value="Having X-Rays done"/>
+            </contains>
+            <contains>
+              <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts"/>
+              <code value="other-diagnostic-tests"/>
+              <display value="Going through other Diagnostic Tests (e.g. mammography)"/>
+            </contains>
+            <contains>
+              <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts"/>
+              <code value="surgeries"/>
+              <display value="Having Surgeries"/>
+            </contains>
+            <contains>
+              <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts"/>
+              <code value="other-procedures"/>
+              <display value="Having other procedures done (e.g. colonoscopy)"/>
+            </contains>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts"/>
+            <code value="health-care-visits"/>
+            <display value="Health Care visits"/>
+            <contains>
+              <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts"/>
+              <code value="pcp"/>
+              <display value="Visiting PCP primary clinician"/>
+            </contains>
+            <contains>
+              <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts"/>
+              <code value="specialists"/>
+              <display value="Visiting specialists (e.g., cardiologist, pulmonologist, urologist)"/>
+            </contains>
+            <contains>
+              <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts"/>
+              <code value="counselor"/>
+              <display value="Visiting counselor (e.g., psychologist, social worker, therapist)"/>
+            </contains>
+            <contains>
+              <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts"/>
+              <code value="rehabilitation"/>
+              <display value="Doing rehabilitation (e.g., physical therapy, cardio rehabilitation)"/>
+            </contains>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts"/>
+            <code value="community-services"/>
+            <display value="Community programs, services and supports"/>
+            <contains>
+              <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts"/>
+              <code value="in-home-help"/>
+              <display value="In-home help"/>
+            </contains>
+            <contains>
+              <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts"/>
+              <code value="transportation"/>
+              <display value="Transportation"/>
+            </contains>
+            <contains>
+              <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts"/>
+              <code value="meal-delivery"/>
+              <display value="Meal delivery"/>
+            </contains>
+            <contains>
+              <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts"/>
+              <code value="community-based-program"/>
+              <display value="Community-based program"/>
+            </contains>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts"/>
+            <code value="other"/>
+            <display value="Other"/>
+          </contains>
+        </expansion>
+      </ValueSet>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="http://mtnlotus.com/fhir/ppc/ValueSet/ppc-what-matters-vs"/>
+    <resource>
+      <ValueSet>
+        <text>
+          <status value="generated"/>
+          <div xmlns="http://www.w3.org/1999/xhtml">
+            <p class="res-header-id">
+              <b>Generated Narrative: ValueSet </b>
+            </p>
+            <p style="border: black 1px dotted; background-color: #EEEEEE; padding: 8px; margin-bottom: 8px">Expansion based on 
+              <a href="CodeSystem-ppc-what-matters-concepts.html">codesystem PPC What Matters Concepts v0.1.0 (CodeSystem)</a>
+            </p>
+            <p>This value set contains 15 concepts</p>
+            <table class="codes">
+              <tr>
+                <td style="white-space:nowrap">
+                  <b>Code</b>
+                </td>
+                <td>
+                  <b>System</b>
+                </td>
+                <td>
+                  <b>Display</b>
+                </td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts-ppc-wm-1"> </a>  
+                  <a href="CodeSystem-ppc-what-matters-concepts.html#ppc-what-matters-concepts-ppc-wm-1">ppc-wm-1</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts</td>
+                <td>Other</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts-ppc-wm-2"> </a>  
+                  <a href="CodeSystem-ppc-what-matters-concepts.html#ppc-what-matters-concepts-ppc-wm-2">ppc-wm-2</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts</td>
+                <td>Doing activities with family and friends</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts-ppc-wm-3"> </a>  
+                  <a href="CodeSystem-ppc-what-matters-concepts.html#ppc-what-matters-concepts-ppc-wm-3">ppc-wm-3</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts</td>
+                <td>Walking or moving inside and outside of my home</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts-ppc-wm-4"> </a>  
+                  <a href="CodeSystem-ppc-what-matters-concepts.html#ppc-what-matters-concepts-ppc-wm-4">ppc-wm-4</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts</td>
+                <td>Taking care of family and friends and/or pets in my life</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts-ppc-wm-5"> </a>  
+                  <a href="CodeSystem-ppc-what-matters-concepts.html#ppc-what-matters-concepts-ppc-wm-5">ppc-wm-5</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts</td>
+                <td>Comfort and function are more important than living longer</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts-ppc-wm-6"> </a>  
+                  <a href="CodeSystem-ppc-what-matters-concepts.html#ppc-what-matters-concepts-ppc-wm-6">ppc-wm-6</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts</td>
+                <td>Activities that support my religious or spiritual life</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts-ppc-wm-7"> </a>  
+                  <a href="CodeSystem-ppc-what-matters-concepts.html#ppc-what-matters-concepts-ppc-wm-7">ppc-wm-7</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts</td>
+                <td>Living as long as possible even if I am unable to do the things that are most important to me</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts-ppc-wm-8"> </a>  
+                  <a href="CodeSystem-ppc-what-matters-concepts.html#ppc-what-matters-concepts-ppc-wm-8">ppc-wm-8</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts</td>
+                <td>Doing productive work (e.g. a job or volunteering)</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts-ppc-wm-9"> </a>  
+                  <a href="CodeSystem-ppc-what-matters-concepts.html#ppc-what-matters-concepts-ppc-wm-9">ppc-wm-9</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts</td>
+                <td>Living as long as possible, even if that means more treatments, pain, or discomfort</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts-ppc-wm-10"> </a>  
+                  <a href="CodeSystem-ppc-what-matters-concepts.html#ppc-what-matters-concepts-ppc-wm-10">ppc-wm-10</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts</td>
+                <td>Eating food I enjoy</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts-ppc-wm-11"> </a>  
+                  <a href="CodeSystem-ppc-what-matters-concepts.html#ppc-what-matters-concepts-ppc-wm-11">ppc-wm-11</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts</td>
+                <td>Reducing the amount of time I devote to health care</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts-ppc-wm-12"> </a>  
+                  <a href="CodeSystem-ppc-what-matters-concepts.html#ppc-what-matters-concepts-ppc-wm-12">ppc-wm-12</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts</td>
+                <td>Taking care of myself</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts-ppc-wm-13"> </a>  
+                  <a href="CodeSystem-ppc-what-matters-concepts.html#ppc-what-matters-concepts-ppc-wm-13">ppc-wm-13</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts</td>
+                <td>Avoiding spending time in the hospital</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts-ppc-wm-14"> </a>  
+                  <a href="CodeSystem-ppc-what-matters-concepts.html#ppc-what-matters-concepts-ppc-wm-14">ppc-wm-14</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts</td>
+                <td>Living at home</td>
+              </tr>
+              <tr>
+                <td style="white-space:nowrap">
+                  <a name="x-http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts-ppc-wm-15"> </a>  
+                  <a href="CodeSystem-ppc-what-matters-concepts.html#ppc-what-matters-concepts-ppc-wm-15">ppc-wm-15</a>
+                </td>
+                <td>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts</td>
+                <td>Taking care of my home</td>
+              </tr>
+            </table>
+          </div>
+        </text>
+        <url value="http://mtnlotus.com/fhir/ppc/ValueSet/ppc-what-matters-vs"/>
+        <version value="0.1.0"/>
+        <name value="PPCWhatMatters"/>
+        <title value="PPC What Matters ValueSet"/>
+        <status value="draft"/>
+        <experimental value="false"/>
+        <date value="2025-01-10T00:10:52+00:00"/>
+        <jurisdiction>
+          <coding>
+            <system value="urn:iso:std:iso:3166"/>
+            <code value="US"/>
+          </coding>
+        </jurisdiction>
+        <expansion>
+          <identifier value="urn:uuid:150eb931-44c3-4f01-bdf9-2448c1b5dad4"/>
+          <timestamp value="2025-01-10T00:11:48+00:00"/>
+          <total value="15"/>
+          <offset value="0"/>
+          <parameter>
+            <name value="count"/>
+            <valueInteger value="1000"/>
+          </parameter>
+          <parameter>
+            <name value="offset"/>
+            <valueInteger value="0"/>
+          </parameter>
+          <parameter>
+            <name value="excludeNested"/>
+            <valueBoolean value="false"/>
+          </parameter>
+          <parameter>
+            <name value="used-codesystem"/>
+            <valueUri value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts|0.1.0"/>
+          </parameter>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts"/>
+            <code value="ppc-wm-1"/>
+            <display value="Other"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts"/>
+            <code value="ppc-wm-2"/>
+            <display value="Doing activities with family and friends"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts"/>
+            <code value="ppc-wm-3"/>
+            <display value="Walking or moving inside and outside of my home"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts"/>
+            <code value="ppc-wm-4"/>
+            <display value="Taking care of family and friends and/or pets in my life"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts"/>
+            <code value="ppc-wm-5"/>
+            <display value="Comfort and function are more important than living longer"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts"/>
+            <code value="ppc-wm-6"/>
+            <display value="Activities that support my religious or spiritual life"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts"/>
+            <code value="ppc-wm-7"/>
+            <display value="Living as long as possible even if I am unable to do the things that are most important to me"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts"/>
+            <code value="ppc-wm-8"/>
+            <display value="Doing productive work (e.g. a job or volunteering)"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts"/>
+            <code value="ppc-wm-9"/>
+            <display value="Living as long as possible, even if that means more treatments, pain, or discomfort"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts"/>
+            <code value="ppc-wm-10"/>
+            <display value="Eating food I enjoy"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts"/>
+            <code value="ppc-wm-11"/>
+            <display value="Reducing the amount of time I devote to health care"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts"/>
+            <code value="ppc-wm-12"/>
+            <display value="Taking care of myself"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts"/>
+            <code value="ppc-wm-13"/>
+            <display value="Avoiding spending time in the hospital"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts"/>
+            <code value="ppc-wm-14"/>
+            <display value="Living at home"/>
+          </contains>
+          <contains>
+            <system value="http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts"/>
+            <code value="ppc-wm-15"/>
+            <display value="Taking care of my home"/>
+          </contains>
+        </expansion>
+      </ValueSet>
+    </resource>
+  </entry>
+</Bundle>

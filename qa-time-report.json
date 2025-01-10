@@ -1,0 +1,963 @@
+{
+  "date" : "Fri, 10 Jan, 2025 00:10:52 +0000",
+  "doco" : "For each file: start is seconds after start activity occurred. Length = milliseconds activity took",
+  "files" : [
+    {
+      "name" : "/fsh-generated/resources/ImplementationGuide-mtnlotus.fhir.ppc.json",
+      "size" : 9539,
+      "processes" : [
+        {
+          "activity" : "load",
+          "start" : 116,
+          "length" : 17
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 116,
+          "length" : 5
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 116,
+          "length" : 328
+        },
+        {
+          "activity" : "validate",
+          "start" : 121,
+          "length" : 5263
+        },
+        {
+          "activity" : "generate1",
+          "start" : 130,
+          "length" : 123
+        },
+        {
+          "activity" : "generate2",
+          "start" : 133,
+          "length" : 178
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 190,
+          "length" : 5
+        },
+        {
+          "activity" : "scanExamplesForR5",
+          "start" : 211,
+          "length" : 1
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/CarePlan-ppcCookingDinnerCarePlanExample.json",
+      "size" : 753,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 115,
+          "length" : 7
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 116,
+          "length" : 827
+        },
+        {
+          "activity" : "validate",
+          "start" : 127,
+          "length" : 361
+        },
+        {
+          "activity" : "generate1",
+          "start" : 130,
+          "length" : 70
+        },
+        {
+          "activity" : "generate2",
+          "start" : 133,
+          "length" : 94
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/CodeSystem-ppc-bothersome-health-concern-concepts.json",
+      "size" : 2701,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 115,
+          "length" : 5
+        },
+        {
+          "activity" : "load",
+          "start" : 116,
+          "length" : 19
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 117,
+          "length" : 47
+        },
+        {
+          "activity" : "validate",
+          "start" : 118,
+          "length" : 229
+        },
+        {
+          "activity" : "generate1",
+          "start" : 130,
+          "length" : 81
+        },
+        {
+          "activity" : "generate2",
+          "start" : 133,
+          "length" : 23979
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/CodeSystem-ppc-care-tradeoff-concepts.json",
+      "size" : 3733,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 115,
+          "length" : 9
+        },
+        {
+          "activity" : "load",
+          "start" : 116,
+          "length" : 13
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 116,
+          "length" : 1
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 117,
+          "length" : 46
+        },
+        {
+          "activity" : "validate",
+          "start" : 118,
+          "length" : 35
+        },
+        {
+          "activity" : "generate1",
+          "start" : 130,
+          "length" : 81
+        },
+        {
+          "activity" : "generate2",
+          "start" : 157,
+          "length" : 616
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 190,
+          "length" : 3
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/CodeSystem-ppc-what-matters-concepts.json",
+      "size" : 2153,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 115,
+          "length" : 11
+        },
+        {
+          "activity" : "load",
+          "start" : 116,
+          "length" : 9
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 117,
+          "length" : 56
+        },
+        {
+          "activity" : "validate",
+          "start" : 118,
+          "length" : 26
+        },
+        {
+          "activity" : "generate1",
+          "start" : 130,
+          "length" : 72
+        },
+        {
+          "activity" : "generate2",
+          "start" : 158,
+          "length" : 276
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/Goal-ppcGoalGrillForFamily.json",
+      "size" : 1307,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 115,
+          "length" : 12
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 117,
+          "length" : 4
+        },
+        {
+          "activity" : "validate",
+          "start" : 127,
+          "length" : 246
+        },
+        {
+          "activity" : "generate1",
+          "start" : 130,
+          "length" : 73
+        },
+        {
+          "activity" : "generate2",
+          "start" : 158,
+          "length" : 34
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/List-ppcPrioritiesList.json",
+      "size" : 930,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 115,
+          "length" : 6
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 117,
+          "length" : 110
+        },
+        {
+          "activity" : "validate",
+          "start" : 121,
+          "length" : 1
+        },
+        {
+          "activity" : "loadLists",
+          "start" : 126,
+          "length" : 32
+        },
+        {
+          "activity" : "validate",
+          "start" : 127,
+          "length" : 186
+        },
+        {
+          "activity" : "generate1",
+          "start" : 130,
+          "length" : 68
+        },
+        {
+          "activity" : "generate2",
+          "start" : 158,
+          "length" : 21
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/Observation-ppcBarrierDiabeticDiet.json",
+      "size" : 913,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 115,
+          "length" : 5
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 117,
+          "length" : 4
+        },
+        {
+          "activity" : "validate",
+          "start" : 127,
+          "length" : 258
+        },
+        {
+          "activity" : "generate1",
+          "start" : 130,
+          "length" : 67
+        },
+        {
+          "activity" : "generate2",
+          "start" : 158,
+          "length" : 20
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/Observation-ppcBarrierFeelingTired.json",
+      "size" : 1127,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 115,
+          "length" : 11
+        },
+        {
+          "activity" : "load-configure",
+          "start" : 116,
+          "length" : 1
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 117,
+          "length" : 3
+        },
+        {
+          "activity" : "validate",
+          "start" : 128,
+          "length" : 43
+        },
+        {
+          "activity" : "generate1",
+          "start" : 130,
+          "length" : 68
+        },
+        {
+          "activity" : "generate2",
+          "start" : 158,
+          "length" : 16
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/Observation-ppcBarrierUrinaryIncontinence.json",
+      "size" : 1133,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 115,
+          "length" : 12
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 116,
+          "length" : 1
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 117,
+          "length" : 3
+        },
+        {
+          "activity" : "validate",
+          "start" : 128,
+          "length" : 48
+        },
+        {
+          "activity" : "generate1",
+          "start" : 130,
+          "length" : 67
+        },
+        {
+          "activity" : "generate2",
+          "start" : 158,
+          "length" : 22
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/Observation-ppcCareTradeOffBurdensomeSpecialDiet.json",
+      "size" : 1177,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 115,
+          "length" : 11
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 117,
+          "length" : 3
+        },
+        {
+          "activity" : "validate",
+          "start" : 128,
+          "length" : 60
+        },
+        {
+          "activity" : "generate1",
+          "start" : 130,
+          "length" : 69
+        },
+        {
+          "activity" : "generate2",
+          "start" : 158,
+          "length" : 17
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/Observation-ppcCareTradeOffBurdensomeWaterPill.json",
+      "size" : 1210,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 115,
+          "length" : 12
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 117,
+          "length" : 4
+        },
+        {
+          "activity" : "validate",
+          "start" : 128,
+          "length" : 54
+        },
+        {
+          "activity" : "generate1",
+          "start" : 130,
+          "length" : 71
+        },
+        {
+          "activity" : "generate2",
+          "start" : 158,
+          "length" : 25
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/Observation-ppcCareTradeOffHelpfulArthritisCream.json",
+      "size" : 1129,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 115,
+          "length" : 7
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 117,
+          "length" : 2
+        },
+        {
+          "activity" : "validate",
+          "start" : 128,
+          "length" : 43
+        },
+        {
+          "activity" : "generate1",
+          "start" : 131,
+          "length" : 76
+        },
+        {
+          "activity" : "generate2",
+          "start" : 158,
+          "length" : 21
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/Observation-ppcCareTradeOffHelpfulExercising.json",
+      "size" : 1090,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 115,
+          "length" : 5
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 117,
+          "length" : 2
+        },
+        {
+          "activity" : "validate",
+          "start" : 128,
+          "length" : 46
+        },
+        {
+          "activity" : "generate1",
+          "start" : 131,
+          "length" : 67
+        },
+        {
+          "activity" : "generate2",
+          "start" : 158,
+          "length" : 19
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/Observation-ppcGASScoreBaselineExample.json",
+      "size" : 1034,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 115,
+          "length" : 6
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 117,
+          "length" : 3
+        },
+        {
+          "activity" : "validate",
+          "start" : 128,
+          "length" : 495
+        },
+        {
+          "activity" : "generate1",
+          "start" : 131,
+          "length" : 67
+        },
+        {
+          "activity" : "generate2",
+          "start" : 158,
+          "length" : 29
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/Observation-ppcGASScorePractitionerFollowupExample.json",
+      "size" : 1296,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 115,
+          "length" : 11
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 117,
+          "length" : 3
+        },
+        {
+          "activity" : "validate",
+          "start" : 128,
+          "length" : 495
+        },
+        {
+          "activity" : "generate1",
+          "start" : 131,
+          "length" : 67
+        },
+        {
+          "activity" : "generate2",
+          "start" : 158,
+          "length" : 30
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/Observation-ppcWhatMattersActivitiesWithFamily.json",
+      "size" : 1062,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 115,
+          "length" : 11
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 117,
+          "length" : 3
+        },
+        {
+          "activity" : "scanForUsageStats",
+          "start" : 127,
+          "length" : 1
+        },
+        {
+          "activity" : "validate",
+          "start" : 129,
+          "length" : 59
+        },
+        {
+          "activity" : "generate1",
+          "start" : 131,
+          "length" : 66
+        },
+        {
+          "activity" : "generate2",
+          "start" : 158,
+          "length" : 17
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/Observation-ppcWhatMattersTakingCareOfFamily.json",
+      "size" : 1076,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 115,
+          "length" : 10
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 116,
+          "length" : 1
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 117,
+          "length" : 2
+        },
+        {
+          "activity" : "validate",
+          "start" : 129,
+          "length" : 52
+        },
+        {
+          "activity" : "generate1",
+          "start" : 131,
+          "length" : 66
+        },
+        {
+          "activity" : "generate2",
+          "start" : 158,
+          "length" : 16
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/Patient-pcoPatientJones.json",
+      "size" : 471,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 115,
+          "length" : 10
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 117,
+          "length" : 1
+        },
+        {
+          "activity" : "validate",
+          "start" : 129,
+          "length" : 15
+        },
+        {
+          "activity" : "generate1",
+          "start" : 131,
+          "length" : 65
+        },
+        {
+          "activity" : "generate2",
+          "start" : 158,
+          "length" : 12
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/Patient-ppcPatientMrK.json",
+      "size" : 459,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 115,
+          "length" : 11
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 117,
+          "length" : 1
+        },
+        {
+          "activity" : "validate",
+          "start" : 129,
+          "length" : 12
+        },
+        {
+          "activity" : "generate1",
+          "start" : 131,
+          "length" : 68
+        },
+        {
+          "activity" : "generate2",
+          "start" : 158,
+          "length" : 8
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/Practitioner-pcoPractitionerAnderson.json",
+      "size" : 533,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 115,
+          "length" : 10
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 117,
+          "length" : 1
+        },
+        {
+          "activity" : "validate",
+          "start" : 129,
+          "length" : 14
+        },
+        {
+          "activity" : "generate1",
+          "start" : 131,
+          "length" : 66
+        },
+        {
+          "activity" : "generate2",
+          "start" : 158,
+          "length" : 10
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/Practitioner-pcoPractitionerGonzalez.json",
+      "size" : 547,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 115,
+          "length" : 11
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 117,
+          "length" : 1
+        },
+        {
+          "activity" : "validate",
+          "start" : 129,
+          "length" : 12
+        },
+        {
+          "activity" : "generate1",
+          "start" : 131,
+          "length" : 70
+        },
+        {
+          "activity" : "generate2",
+          "start" : 158,
+          "length" : 11
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/ServiceRequest-ppcPhysicalTherapyReferral.json",
+      "size" : 1098,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 115,
+          "length" : 10
+        },
+        {
+          "activity" : "load-configure",
+          "start" : 116,
+          "length" : 1
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 117,
+          "length" : 3
+        },
+        {
+          "activity" : "validate",
+          "start" : 129,
+          "length" : 440
+        },
+        {
+          "activity" : "generate1",
+          "start" : 131,
+          "length" : 66
+        },
+        {
+          "activity" : "generate2",
+          "start" : 158,
+          "length" : 28
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/StructureDefinition-ppc-bothersome-health-concern.json",
+      "size" : 2342,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 115,
+          "length" : 8
+        },
+        {
+          "activity" : "load",
+          "start" : 116,
+          "length" : 7
+        },
+        {
+          "activity" : "generateSnapshots",
+          "start" : 116,
+          "length" : 75
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 117,
+          "length" : 133
+        },
+        {
+          "activity" : "validate",
+          "start" : 118,
+          "length" : 3201
+        },
+        {
+          "activity" : "scanForUsageStats",
+          "start" : 127,
+          "length" : 1
+        },
+        {
+          "activity" : "generate1",
+          "start" : 131,
+          "length" : 209
+        },
+        {
+          "activity" : "generate2",
+          "start" : 158,
+          "length" : 1711
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 190,
+          "length" : 23
+        },
+        {
+          "activity" : "scanExamplesForR5",
+          "start" : 211,
+          "length" : 1
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/ValueSet-ppc-bothersome-health-concerns-vs.json",
+      "size" : 538,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 115,
+          "length" : 5
+        },
+        {
+          "activity" : "load",
+          "start" : 116,
+          "length" : 6
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 117,
+          "length" : 251
+        },
+        {
+          "activity" : "validate",
+          "start" : 118,
+          "length" : 35
+        },
+        {
+          "activity" : "generate1",
+          "start" : 131,
+          "length" : 70
+        },
+        {
+          "activity" : "generate2",
+          "start" : 160,
+          "length" : 9882
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/ValueSet-ppc-care-tradeoff-vs.json",
+      "size" : 452,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 115,
+          "length" : 4
+        },
+        {
+          "activity" : "load",
+          "start" : 116,
+          "length" : 5
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 118,
+          "length" : 32
+        },
+        {
+          "activity" : "validate",
+          "start" : 118,
+          "length" : 32
+        },
+        {
+          "activity" : "generate1",
+          "start" : 132,
+          "length" : 79
+        },
+        {
+          "activity" : "generate2",
+          "start" : 170,
+          "length" : 540
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/ValueSet-ppc-what-matters-vs.json",
+      "size" : 456,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 115,
+          "length" : 6
+        },
+        {
+          "activity" : "load",
+          "start" : 116,
+          "length" : 5
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 118,
+          "length" : 33
+        },
+        {
+          "activity" : "validate",
+          "start" : 118,
+          "length" : 28
+        },
+        {
+          "activity" : "generate1",
+          "start" : 132,
+          "length" : 66
+        },
+        {
+          "activity" : "generate2",
+          "start" : 171,
+          "length" : 461
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 190,
+          "length" : 1
+        }
+      ]
+    }
+  ]
+}

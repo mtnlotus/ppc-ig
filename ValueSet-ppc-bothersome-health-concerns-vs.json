@@ -1,0 +1,35 @@
+{
+  "resourceType" : "ValueSet",
+  "id" : "ppc-bothersome-health-concerns-vs",
+  "text" : {
+    "status" : "generated",
+    "div" : "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p class=\"res-header-id\"><b>Generated Narrative: ValueSet ppc-bothersome-health-concerns-vs</b></p><a name=\"ppc-bothersome-health-concerns-vs\"> </a><a name=\"hcppc-bothersome-health-concerns-vs\"> </a><a name=\"ppc-bothersome-health-concerns-vs-en-US\"> </a><ul><li>Include all codes defined in <a href=\"CodeSystem-ppc-bothersome-health-concern-concepts.html\"><code>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts</code></a></li></ul></div>"
+  },
+  "url" : "http://mtnlotus.com/fhir/ppc/ValueSet/ppc-bothersome-health-concerns-vs",
+  "version" : "0.1.0",
+  "name" : "PPCBothersomeHealthConcerns",
+  "title" : "Bothersome Health Concerns",
+  "status" : "draft",
+  "experimental" : false,
+  "date" : "2025-01-10T00:10:52+00:00",
+  "publisher" : "Mountain Lotus WellBeing LLC",
+  "contact" : [{
+    "name" : "Mountain Lotus WellBeing LLC",
+    "telecom" : [{
+      "system" : "url",
+      "value" : "http://mtnlotus.com"
+    }]
+  }],
+  "description" : "Value set containing types of bothersome symptoms or health concerns.",
+  "jurisdiction" : [{
+    "coding" : [{
+      "system" : "urn:iso:std:iso:3166",
+      "code" : "US"
+    }]
+  }],
+  "compose" : {
+    "include" : [{
+      "system" : "http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts"
+    }]
+  }
+}

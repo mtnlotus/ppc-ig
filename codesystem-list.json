@@ -1,0 +1,28 @@
+{
+  "codeSystems" : [
+    {
+      "url" : "http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts",
+      "version" : "0.1.0",
+      "status" : "active",
+      "name" : "PPCBothersomeHealthConcernConcepts",
+      "title" : "Bothersome Health Concern Concepts",
+      "description" : "Code system to identify bothersome symptoms or health concerns.."
+    },
+    {
+      "url" : "http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts",
+      "version" : "0.1.0",
+      "status" : "active",
+      "name" : "PPCCareTradeOffConcepts",
+      "title" : "Care Trade-off Concepts",
+      "description" : "Code system to identify care trade-off concepts."
+    },
+    {
+      "url" : "http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts",
+      "version" : "0.1.0",
+      "status" : "active",
+      "name" : "PPCWhatMattersConcepts",
+      "title" : "PPC What Matters Concepts",
+      "description" : "Code system to identify What Matters concepts from Patient Priories Care (PPC)"
+    }
+  ]
+}

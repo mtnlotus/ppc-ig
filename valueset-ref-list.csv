@@ -1,0 +1,4 @@
+URL,Version,Status,OIDs,Name,Title,Descriptino,Uses,Used,Sources
+http://mtnlotus.com/fhir/ppc/ValueSet/ppc-bothersome-health-concerns-vs,0.1.0,draft,,PPCBothersomeHealthConcerns,Bothersome Health Concerns,"Value set containing types of bothersome symptoms or health concerns.","StructureDefinition/ppc-bothersome-health-concern","Internal"
+http://mtnlotus.com/fhir/ppc/ValueSet/ppc-care-tradeoff-vs,0.1.0,draft,,PPCCareTradeOff,Care Trade-off,"Value set containing types of care trade-off.",,"Internal"
+http://mtnlotus.com/fhir/ppc/ValueSet/ppc-what-matters-vs,0.1.0,draft,,PPCWhatMatters,PPC What Matters ValueSet,"Vlue set containing types of What Matters.",,"Internal"

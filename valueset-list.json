@@ -1,0 +1,37 @@
+{
+  "codeSystems" : [
+    {
+      "url" : "http://mtnlotus.com/fhir/ppc/ValueSet/ppc-bothersome-health-concerns-vs",
+      "version" : "0.1.0",
+      "status" : "draft",
+      "name" : "PPCBothersomeHealthConcerns",
+      "title" : "Bothersome Health Concerns",
+      "description" : "Value set containing types of bothersome symptoms or health concerns.",
+      "systems" : [
+        "http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-bothersome-health-concern-concepts"
+      ]
+    },
+    {
+      "url" : "http://mtnlotus.com/fhir/ppc/ValueSet/ppc-care-tradeoff-vs",
+      "version" : "0.1.0",
+      "status" : "draft",
+      "name" : "PPCCareTradeOff",
+      "title" : "Care Trade-off",
+      "description" : "Value set containing types of care trade-off.",
+      "systems" : [
+        "http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts"
+      ]
+    },
+    {
+      "url" : "http://mtnlotus.com/fhir/ppc/ValueSet/ppc-what-matters-vs",
+      "version" : "0.1.0",
+      "status" : "draft",
+      "name" : "PPCWhatMatters",
+      "title" : "PPC What Matters ValueSet",
+      "description" : "Vlue set containing types of What Matters.",
+      "systems" : [
+        "http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-what-matters-concepts"
+      ]
+    }
+  ]
+}

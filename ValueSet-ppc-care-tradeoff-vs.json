@@ -1,0 +1,35 @@
+{
+  "resourceType" : "ValueSet",
+  "id" : "ppc-care-tradeoff-vs",
+  "text" : {
+    "status" : "generated",
+    "div" : "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p class=\"res-header-id\"><b>Generated Narrative: ValueSet ppc-care-tradeoff-vs</b></p><a name=\"ppc-care-tradeoff-vs\"> </a><a name=\"hcppc-care-tradeoff-vs\"> </a><a name=\"ppc-care-tradeoff-vs-en-US\"> </a><ul><li>Include all codes defined in <a href=\"CodeSystem-ppc-care-tradeoff-concepts.html\"><code>http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts</code></a></li></ul></div>"
+  },
+  "url" : "http://mtnlotus.com/fhir/ppc/ValueSet/ppc-care-tradeoff-vs",
+  "version" : "0.1.0",
+  "name" : "PPCCareTradeOff",
+  "title" : "Care Trade-off",
+  "status" : "draft",
+  "experimental" : false,
+  "date" : "2025-01-10T00:10:52+00:00",
+  "publisher" : "Mountain Lotus WellBeing LLC",
+  "contact" : [{
+    "name" : "Mountain Lotus WellBeing LLC",
+    "telecom" : [{
+      "system" : "url",
+      "value" : "http://mtnlotus.com"
+    }]
+  }],
+  "description" : "Value set containing types of care trade-off.",
+  "jurisdiction" : [{
+    "coding" : [{
+      "system" : "urn:iso:std:iso:3166",
+      "code" : "US"
+    }]
+  }],
+  "compose" : {
+    "include" : [{
+      "system" : "http://mtnlotus.com/fhir/ppc/CodeSystem/ppc-care-tradeoff-concepts"
+    }]
+  }
+}
